@@ -51,7 +51,7 @@ class Tokens {
   }
 }
 
-export {
+export default {
   Tokens,
   ScopedToken,
   InvalidTokenError,
